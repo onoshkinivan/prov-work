@@ -62,3 +62,16 @@ html, body {
     font-weight: 500;
     font-size: 20px;
 }
+
+.button {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    background-color: #701d8e;
+    display: inline-block;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 15px;
+    position: relative;
+    cursor: pointer;
+}
